@@ -1,9 +1,8 @@
 # ItsEvil
-My repository
-
 Я на Gist: https://gist.github.com/ItsEvil
 
-Владею:
+Навыки:
+
 HTML5, CSS3, Stylus, JavaScript, CoffeeScript, MySQLi, PHP
 
 ## Самописные модули на CoffeeScript:
