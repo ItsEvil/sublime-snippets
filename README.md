@@ -5,3 +5,6 @@
 * [Эффект перелистывания страниц] (https://gist.github.com/ItsEvil/818e63c64b805825eefb)
 * [Валидация] (https://gist.github.com/ItsEvil/d7774f1151587567a90e)
 * [Другие гисты] (https://gist.github.com/ItsEvil)
+
+## Наработки на Stylus
+* [Hexagon] (https://gist.github.com/ItsEvil/145897eacab360600d89)
