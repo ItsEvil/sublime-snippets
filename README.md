@@ -1,11 +1,10 @@
 ## Snippets for JS
 
-id => ```js document.getElementById("") ```
+id => ```document.getElementById("")```
 
-cl =>
-```js
-document.getElementsByClassName("")
-```
+cl => ``` document.getElementsByClassName("") ```
+
+jj => ```console.log();```
 
 jfor =>
 ```js
@@ -13,11 +12,6 @@ var i;
 for (i=0; i < .length; i++) {
   
 }
-```
-
-jj =>
-```js
-console.log();
 ```
 
 ah =>
