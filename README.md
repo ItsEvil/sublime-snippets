@@ -17,3 +17,8 @@ for (i=0; i < .length; i++) {
   
 }
 ```
+
+jj =>
+```js
+console.log();
+```
