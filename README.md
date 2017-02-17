@@ -1,6 +1,11 @@
 ## Snippets for JS
 
 id =>
-'''
-document.getElementById("")
-'''
+```
+code block
+```
+
+```php
+//php code 
+$foo = new BarClass();
+```
