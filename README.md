@@ -1,9 +1,6 @@
 ## Snippets for JS
 
-id =>
-```js
-document.getElementById("")
-```
+id => ```js document.getElementById("") ```
 
 cl =>
 ```js
