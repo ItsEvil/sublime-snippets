@@ -1,10 +1,10 @@
-## Snippets for JS
+## Сниппеты для JS
 
-id => ```document.getElementById("")```
+id => ``` document.getElementById("") ```
 
 cl => ``` document.getElementsByClassName("") ```
 
-jj => ```console.log();```
+jj => ``` console.log(); ```
 
 jfor =>
 ```js
